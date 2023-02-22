@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["salesforce_products_to_stripe_products"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/ManualTrigger","Category/Integration"]
+  name = "salesforce_products_to_stripe_products"
+  org = "sam"
+  version = "3.1.0"
+
